@@ -3,7 +3,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #fff5;
+  background-color: hsla(112, 87%, 51%, 0.681);
 }
 
 .grid {
@@ -16,7 +16,7 @@
 }
 
 .card {
-  background-color: rgb(73, 13, 13);
+  background-color: rgb(8, 73, 108);
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   overflow: hidden;
@@ -47,7 +47,7 @@
 
 .info p {
   font-size: 14px;
-  color: #555;
+  color: hsl(220, 11%, 43%);
   margin-bottom: 5px;
 }
 

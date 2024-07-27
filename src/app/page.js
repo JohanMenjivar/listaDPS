@@ -1,6 +1,6 @@
 import styles from "./page.module.css";
 import Company from "@/components/Company"; 
-import data from "../data/data.json"; // Importing the JSON file
+import data from "@/data/data.json"; // Importing the JSON file
 
 export default function Home() {
   return (
