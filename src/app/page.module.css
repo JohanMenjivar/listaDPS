@@ -3,6 +3,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: #fff5;
 }
 
 .grid {
@@ -15,7 +16,7 @@
 }
 
 .card {
-  background-color: #fff;
+  background-color: rgb(73, 13, 13);
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   overflow: hidden;
@@ -51,5 +52,5 @@
 }
 
 .info strong {
-  color: #333;
+  color: #f4f4f4;
 }
